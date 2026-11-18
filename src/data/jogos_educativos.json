@@ -1,0 +1,1937 @@
+[
+  {
+    "id": "J1",
+    "titulo": "Ludo Educativo Primeiros Passos",
+    "ano": 2019,
+    "imagem": null,
+    "descricao": "Disponibilizado na Web, em computadores e tablets, e aborda o reconhecimento de letras, sílabas e palavras, com o objetivo de apoiar a alfabetização infantil. Desenvolve percepção visual, coordenação motora fina, consciência fonológica e raciocínio lógico por meio de atividades de arrastar e soltar, personalização de personagens e progressão por fases com recompensas.",
+    "plataformas": [
+      "Aplicação Web",
+      "Computadores e tablets"
+    ],
+    "linkAcesso": "https://www.ludoeducativo.com.br/pt/play/ludo-primeiros-passos",
+    "linkArtigo": "https://journals-sol.sbc.org.br/index.php/rbie/article/view/4733/2812",
+    "autores": [
+      "Gabriela Souza",
+      "Giovani Letti",
+      "Vivian Oliveira",
+      "Madalena Silva",
+      "T. Pieczkowski"
+    ],
+    "areaConhecimento": [
+      "Linguagem",
+      "Língua Portuguesa"
+    ],
+    "conteudos": [
+      "Reconhecimento de letras, sílabas e palavras"
+    ],
+    "objetivosAprendizagem": "Apoiar o processo de alfabetização de crianças.",
+    "habilidades": [
+      "Percepção visual",
+      "Coordenação motora fina",
+      "Associação fonema-grafema",
+      "Raciocínio lógico"
+    ],
+    "alinhamentoBNCC": false,
+    "alinhamentoDetalhe": "Não se aplica",
+    "fundamentacaoPedagogica": [
+      "Não informado"
+    ],
+    "faixasEtarias": [
+      "Crianças"
+    ],
+    "idade": "4 a 14 anos",
+    "nivelSuporte": "Não informado",
+    "nivelEducacional": [
+      "Educação Infantil",
+      "Anos iniciais do Ensino Fundamental"
+    ],
+    "mecanicas": [
+      "Personalização de personagens e fantasias",
+      "Interação baseada em “arrastar e soltar” (drag and drop) para completar palavras usando letras e sílabas",
+      "Sistema de progressão por fases com estrelas de recompensa, barra de progresso visual e desbloqueio automático de níveis"
+    ],
+    "recursosAcessibilidade": [
+      "Redução da poluição visual (fundo estático, sem animações distratoras)",
+      "Instruções multimodais (texto, imagem e áudio)",
+      "Botões com comportamentos padronizados e previsíveis",
+      "Feedbacks sonoros e visuais positivos",
+      "Alto contraste entre elementos"
+    ],
+    "evidenciasCientificas": [
+      "Avaliação experimental e de usabilidade",
+      "Estudo de caso experimental com definição de personas, seguido de testes comparativos de usabilidade antes e depois da reformulação da interface"
+    ]
+  },
+  {
+    "id": "J2",
+    "titulo": "Jecripe 2",
+    "ano": 2020,
+    "imagem": null,
+    "descricao": "Utiliza notebook e fones de ouvido para desenvolver o vocabulário receptivo de estudantes atendidos pelo AEE. Trabalha atenção, memória, imitação, percepção sensorial, coordenação motora e consciência fonológica por meio de atividades de identificação, categorização e associação entre imagens e sons, distribuídas em três ambientes: sítio, apartamento e praia.",
+    "plataformas": [
+      "Notebook",
+      "Fones de ouvido"
+    ],
+    "linkAcesso": "https://jecripe.wordpress.com/jecripe-2-o-segundo-jogo-destinado-as-criancas-com-sindrome-de-down-em-idade-pre-escolar/",
+    "linkArtigo": "https://journals-sol.sbc.org.br/index.php/rbie/article/view/3689/2347",
+    "autores": [
+      "Lincoln Sassaki",
+      "Priscila Benitez",
+      "André Brandão"
+    ],
+    "areaConhecimento": [
+      "Linguagem",
+      "Língua Portuguesa"
+    ],
+    "conteudos": [
+      "Compreensão e ampliação de vocabulário"
+    ],
+    "objetivosAprendizagem": "Avaliar e desenvolver o vocabulário receptivo em situações naturalísticas, considerando diferentes repertórios comportamentais de estudantes atendidos pelo AEE.",
+    "habilidades": [
+      "Vocabulário receptivo",
+      "Atenção",
+      "Memória",
+      "Imitação",
+      "Percepção sensorial",
+      "Coordenação motora fina",
+      "Coordenação óculo-manual",
+      "Consciência fonológica"
+    ],
+    "alinhamentoBNCC": false,
+    "alinhamentoDetalhe": "Não se aplica",
+    "fundamentacaoPedagogica": [
+      "Desenho Universal para Aprendizagem (DUA)",
+      "Tecnologia Assistiva (TA)"
+    ],
+    "faixasEtarias": [
+      "Crianças",
+      "Jovens"
+    ],
+    "idade": "Não informado",
+    "nivelSuporte": "Não informado",
+    "nivelEducacional": [
+      "Educação Infantil",
+      "Ensino Fundamental",
+      "Ensino Médio",
+      "Educação de Jovens e Adultos (EJA)"
+    ],
+    "mecanicas": [
+      "Atividades baseadas em instruções orais com estímulos visuais, exigindo interações de clicar e arrastar via mouse. O jogo é dividido em três ambientes principais: “No sítio” (identificação de animais e frutas), “No apartamento” (rastreamento visual e quebra-cabeça) e “Na praia” (categorização de objetos e correspondência entre som e figura)"
+    ],
+    "recursosAcessibilidade": [
+      "Acesso intuitivo às atividades",
+      "Instruções orais complementares às visuais",
+      "Interface lúdica adaptada a estudantes com deficiência",
+      "Design inclusivo, adequado a diferentes perfis de estudantes público-alvo da educação especial"
+    ],
+    "evidenciasCientificas": [
+      "Avaliação experimental controlada (delineamento de sujeito único com pré-teste e pós-teste)",
+      "Experimento com delineamento A-B-A (linha de base, intervenção com dicas e retorno à linha de base)"
+    ]
+  },
+  {
+    "id": "J3",
+    "titulo": "VidAut (Vida do Autista)",
+    "ano": 2025,
+    "imagem": null,
+    "descricao": "Disponibilizada para dispositivos móveis, aborda higiene pessoal e autocuidado, buscando desenvolver autonomia e independência nas atividades cotidianas. Estimula atenção, comunicação e autorregulação por meio da exploração de ambientes domésticos e escolares e de minijogos de associação entre dicas e imagens.",
+    "plataformas": [
+      "Dispositivos móveis"
+    ],
+    "linkAcesso": "Não fornecido - Consultar os autores do artigo",
+    "linkArtigo": "https://seer.ufrgs.br/index.php/renote/article/view/144995/94541",
+    "autores": [
+      "Alexandre Santos",
+      "Daniela Gibertoni"
+    ],
+    "areaConhecimento": [
+      "Educação Especial",
+      "Autonomia e Autocuidado"
+    ],
+    "conteudos": [
+      "Higiene pessoal e autocuidado"
+    ],
+    "objetivosAprendizagem": "Apoiar o processo de alfabetização de crianças.",
+    "habilidades": [
+      "Atenção",
+      "Comunicação",
+      "Autorregulação comportamental",
+      "Independência nas atividades cotidianas"
+    ],
+    "alinhamentoBNCC": false,
+    "alinhamentoDetalhe": "Não se aplica",
+    "fundamentacaoPedagogica": [
+      "Modelo GameFlow",
+      "Design Emocional",
+      "Design Participativo"
+    ],
+    "faixasEtarias": [
+      "Crianças"
+    ],
+    "idade": "Não informado",
+    "nivelSuporte": "1 e 2",
+    "nivelEducacional": [
+      "Educação Infantil",
+      "Anos iniciais do Ensino Fundamental"
+    ],
+    "mecanicas": [
+      "Navegação por ambientes domésticos e escolares (banheiro, sala, cozinha e horta)",
+      "Minijogos de simulação de tarefas onde o jogador recebe uma dica de um personagem e deve selecionar a imagem correspondente entre três opções"
+    ],
+    "recursosAcessibilidade": [
+      "Uso de cores suaves para evitar sobrecarga sensorial",
+      "Interface minimalista e intuitiva, dispensando a necessidade de manual",
+      "Feedbacks visuais imediatos para orientar o usuário"
+    ],
+    "evidenciasCientificas": [
+      "Avaliação exploratória baseada na inspeção de especialistas técnicos e pesquisadores",
+      "Estudo de avaliação do design e da experiência do jogador, utilizando o modelo GameFlow e discussão em grupo para consolidação das percepções por consenso"
+    ]
+  },
+  {
+    "id": "J4",
+    "titulo": "Jogo não nomeado",
+    "ano": 2019,
+    "imagem": null,
+    "descricao": "Disponível para dispositivos móveis e Android, trabalha o reconhecimento de emoções em situações cotidianas, visando desenvolver habilidades socioemocionais em crianças com TEA. Estimula reconhecimento facial, interpretação social, raciocínio lógico e comunicação por meio de atividades progressivas de identificação, associação, contextualização e sequenciamento de emoções.",
+    "plataformas": [
+      "Dispositivos móveis",
+      "Tablet",
+      "Android"
+    ],
+    "linkAcesso": "Não fornecido - Consultar os autores do artigo",
+    "linkArtigo": "https://seer.ufrgs.br/index.php/renote/article/view/95719/53812",
+    "autores": [
+      "Elisa Boff",
+      "Claudia Danieli"
+    ],
+    "areaConhecimento": [
+      "Educação Socioemocional"
+    ],
+    "conteudos": [
+      "Reconhecimento de emoções em situações cotidianas"
+    ],
+    "objetivosAprendizagem": "Desenvolver a compreensão e o reconhecimento de emoções em crianças com TEA.",
+    "habilidades": [
+      "Reconhecimento facial",
+      "Interpretação de situações sociais",
+      "Raciocínio lógico",
+      "Sequenciamento",
+      "Comunicação funcional"
+    ],
+    "alinhamentoBNCC": false,
+    "alinhamentoDetalhe": "Não se aplica",
+    "fundamentacaoPedagogica": [
+      "Não informado"
+    ],
+    "faixasEtarias": [
+      "Crianças"
+    ],
+    "idade": "4 e 7 anos",
+    "nivelSuporte": "Não informado",
+    "nivelEducacional": [
+      "Educação Infantil",
+      "Anos iniciais do Ensino Fundamental"
+    ],
+    "mecanicas": [
+      "Composto por quatro atividades com níveis progressivos de dificuldade: Reconhecimento (identificar a emoção apenas pela face), Associação (jogo de pares/memória com imagens iguais ou diferentes da mesma emoção), Contextualização (interpretar a emoção a partir de uma situação ilustrada) e Sequenciação (ordenar três imagens em sequência lógica de causa e efeito)",
+      "Inclui uma mascote que interage via áudio e fornece feedbacks sonoros de acerto ou erro"
+    ],
+    "recursosAcessibilidade": [
+      "Interface simples e limpa, sem elementos distratores",
+      "Comandos com frases curtas e objetivas",
+      "Narração em áudio realizada pela mascote",
+      "Animações com movimentos lentos",
+      "Personalização das emoções trabalhadas conforme a evolução da criança"
+    ],
+    "evidenciasCientificas": [
+      "Avaliação exploratória e estudo piloto com usuários",
+      "Relato de desenvolvimento de software, seguido de estudo de caso com aplicação prática supervisionada por especialista"
+    ]
+  },
+  {
+    "id": "J5",
+    "titulo": "Aventuras Digitais Matemáticas",
+    "ano": 2025,
+    "imagem": null,
+    "descricao": "Aborda numerais e operações de adição e subtração, buscando promover autonomia, curiosidade e interesse pela aprendizagem matemática. Desenvolve raciocínio lógico, coordenação motora, interação social e autoconfiança por meio da manipulação de blocos digitais, missões, progressão por níveis e sistema de recompensas.",
+    "plataformas": [
+      "Não informado"
+    ],
+    "linkAcesso": "Não fornecido - Consultar os autores do artigo",
+    "linkArtigo": "https://sol.sbc.org.br/index.php/sbgames/article/view/37473/37255",
+    "autores": [
+      "Stefany Souza",
+      "Marcelo Siedler",
+      "Rafael Cardoso"
+    ],
+    "areaConhecimento": [
+      "Matemática"
+    ],
+    "conteudos": [
+      "Numerais e operações de adição e subtração"
+    ],
+    "objetivosAprendizagem": "Promover a autonomia, a curiosidade e o interesse pela aprendizagem, tornando o processo educativo mais significativo para crianças com TEA.",
+    "habilidades": [
+      "Raciocínio lógico",
+      "Coordenação motora",
+      "Interação social",
+      "Colaboração",
+      "Autoconfiança",
+      "Autocrítica"
+    ],
+    "alinhamentoBNCC": false,
+    "alinhamentoDetalhe": "Não se aplica",
+    "fundamentacaoPedagogica": [
+      "Não informado"
+    ],
+    "faixasEtarias": [
+      "Crianças",
+      "Adolescentes"
+    ],
+    "idade": "Não informado",
+    "nivelSuporte": "Não informado",
+    "nivelEducacional": [
+      "Educação Infantil",
+      "Anos iniciais do Ensino Fundamental"
+    ],
+    "mecanicas": [
+      "Manipulação de blocos digitais (unidades, dezenas e centenas), sistema de níveis e fases com dificuldade progressiva, missões diárias, acúmulo de pontos de experiência (XP), ranking global, conquista de estrelas e emblemas/medalhas, além de um botão de verificação para feedback imediato"
+    ],
+    "recursosAcessibilidade": [
+      "Uso de ícones visuais em substituição a textos",
+      "Tutorial em vídeo com áudio",
+      "Feedback auditivo",
+      "Cores e texturas não sobrecarregantes (amarelo e texturas de madeira)",
+      "Controle da dificuldade e do ritmo pelo próprio aluno"
+    ],
+    "evidenciasCientificas": [
+      "Avaliação exploratória com abordagem mista (quantitativa e qualitativa)",
+      "Design participativo com validação de protótipo e testes de usabilidade e aceitação"
+    ]
+  },
+  {
+    "id": "J6",
+    "titulo": "TEAGRAM",
+    "ano": 2025,
+    "imagem": null,
+    "descricao": "Disponível para dispositivos móveis e tablets, trabalha noções matemáticas, percepção espacial e raciocínio lógico, visando desenvolver habilidades matemáticas iniciais. Estimula coordenação motora fina, percepção visual e resolução de problemas por meio de atividades de arrastar e soltar, organizadas em quatro níveis progressivos.",
+    "plataformas": [
+      "Dispositivos móveis",
+      "Tablets"
+    ],
+    "linkAcesso": "Não fornecido - Consultar os autores do artigo",
+    "linkArtigo": "https://sol.sbc.org.br/index.php/sbgames/article/view/37471/37253",
+    "autores": [
+      "Péricles Feitoza",
+      "Mônixa Cunha",
+      "João Dantas",
+      "Gabriel Oliveira"
+    ],
+    "areaConhecimento": [
+      "Matemática"
+    ],
+    "conteudos": [
+      "Noções matemáticas",
+      "Percepção espacial",
+      "Raciocínio lógico"
+    ],
+    "objetivosAprendizagem": "Desenvolver habilidades matemáticas iniciais em crianças.",
+    "habilidades": [
+      "Coordenação motora fina",
+      "Percepção visual",
+      "Raciocínio lógico",
+      "Resolução autônoma de problemas"
+    ],
+    "alinhamentoBNCC": false,
+    "alinhamentoDetalhe": "Não se aplica",
+    "fundamentacaoPedagogica": [
+      "Programa TEACCH"
+    ],
+    "faixasEtarias": [
+      "Crianças"
+    ],
+    "idade": "Não informado",
+    "nivelSuporte": "Não informado",
+    "nivelEducacional": [
+      "Educação Infantil",
+      "Anos iniciais do Ensino Fundamental"
+    ],
+    "mecanicas": [
+      "Interação por “arrastar e soltar” (drag and drop)",
+      "Sistema de progressão gradual de dificuldade em 4 níveis (variando quantidade de peças e sutileza das dicas)",
+      "Faixa de conclusão de níveis baseada na técnica de economia de fichas",
+      "Feedback visual e auditivo imediato"
+    ],
+    "recursosAcessibilidade": [
+      "Interface minimalista para evitar sobrecarga sensorial",
+      "Dicas visuais progressivas (sombras, contornos e cores esmaecidas)",
+      "Ícones claros em substituição a textos",
+      "Feedbacks auditivos positivos"
+    ],
+    "evidenciasCientificas": [
+      "Avaliação exploratória e empírica, com coleta de dados quantitativos e qualitativos",
+      "Desenvolvimento de software com Design Centrado no Usuário e validação in loco por meio de sessões observacionais e aplicação de questionário de usabilidade"
+    ]
+  },
+  {
+    "id": "J7",
+    "titulo": "Para que serve?",
+    "ano": 2024,
+    "imagem": null,
+    "descricao": "Disponível na Web, Android e Windows, aborda higiene, alimentação e cuidados pessoais, com foco na aprendizagem de habilidades da vida diária. Desenvolve autonomia, autoconfiança, coordenação motora e associação entre objetos e suas funções por meio de atividades de arrastar e soltar.",
+    "plataformas": [
+      "Aplicação Web",
+      "Android",
+      "Windows"
+    ],
+    "linkAcesso": "Não fornecido - Consultar os autores do artigo",
+    "linkArtigo": "https://sol.sbc.org.br/index.php/sbgames/article/view/32413/32210",
+    "autores": [
+      "Marcelo Siedler",
+      "Rafael Cardoso",
+      "Michele Schmidt",
+      "Tatiana Tavares",
+      "Tiago Primo",
+      "Rodrigo Bichet"
+    ],
+    "areaConhecimento": [
+      "Educação Especial",
+      "Autonomia e Autocuidado"
+    ],
+    "conteudos": [
+      "Higiene",
+      "Alimentação",
+      "Cuidados pessoais"
+    ],
+    "objetivosAprendizagem": "Promover a aprendizagem de habilidades básicas relacionadas às atividades da vida cotidiana.",
+    "habilidades": [
+      "Autonomia",
+      "Autoconfiança",
+      "Coordenação motora",
+      "Associação entre objetos"
+    ],
+    "alinhamentoBNCC": false,
+    "alinhamentoDetalhe": "Não se aplica",
+    "fundamentacaoPedagogica": [
+      "Desenho Universal para Aprendizagem (DUA)"
+    ],
+    "faixasEtarias": [
+      "Crianças"
+    ],
+    "idade": "Não informado",
+    "nivelSuporte": "Não informado",
+    "nivelEducacional": [
+      "Educação Infantil"
+    ],
+    "mecanicas": [
+      "Estilo “drag and drop” (arrastar e soltar), no qual o usuário deve associar objetos às suas funções cotidianas",
+      "Inclui estímulos visuais e sonoros para orientação"
+    ],
+    "recursosAcessibilidade": [
+      "Botões sem texto, com iconografia clara",
+      "Tutoriais em vídeo",
+      "Legendas",
+      "Feedback sonoro descritivo (narração em português)",
+      "Ajuste de volume",
+      "Interface minimalista para evitar sobrecarga sensorial"
+    ],
+    "evidenciasCientificas": [
+      "Avaliação técnica e exploratória de acessibilidade",
+      "Desenvolvimento de software utilizando metodologia ágil (Scrum), seguido de avaliação técnica baseada em diretrizes de acessibilidade (GAG)"
+    ]
+  },
+  {
+    "id": "J8",
+    "titulo": "Conhecendo os Animais",
+    "ano": 2024,
+    "imagem": null,
+    "descricao": "Trabalha a identificação e as características dos animais, buscando desenvolver habilidades de pareamento e associação entre formas, palavras e sons em crianças autistas. Estimula comparação, classificação, percepção auditiva e coordenação motora por meio de três fases: sons, animais e nomes.",
+    "plataformas": [
+      "Não informado"
+    ],
+    "linkAcesso": "Link removido",
+    "linkArtigo": "https://sol.sbc.org.br/index.php/sbgames_estendido/article/view/32154/31956",
+    "autores": [
+      "Pedro Lobato",
+      "Rafael Cardoso",
+      "Tatiana Tavares",
+      "Tiago Primo",
+      "Marcelo Siedler"
+    ],
+    "areaConhecimento": [
+      "Ciências da Natureza"
+    ],
+    "conteudos": [
+      "Identificação e características dos animais"
+    ],
+    "objetivosAprendizagem": "Desenvolver habilidades de pareamento, identificação e associação de formas, palavras e sons em crianças autistas em idade pré-escolar.",
+    "habilidades": [
+      "Comparação",
+      "Classificação",
+      "Percepção auditiva",
+      "Coordenação motora"
+    ],
+    "alinhamentoBNCC": true,
+    "alinhamentoDetalhe": "BNCCEI – Educação Infantil",
+    "fundamentacaoPedagogica": [
+      "Não informado"
+    ],
+    "faixasEtarias": [
+      "Crianças"
+    ],
+    "idade": "4 a 5 anos",
+    "nivelSuporte": "Não informado",
+    "nivelEducacional": [
+      "Educação Infantil",
+      "Anos iniciais do Ensino Fundamental"
+    ],
+    "mecanicas": [
+      "Interação por “arrastar e soltar” (drag and drop) no cenário",
+      "O jogo é dividido em três fases: Sons, Animais e Nomes",
+      "Inclui animações prévias que explicam visualmente a mecânica de cada fase antes do início"
+    ],
+    "recursosAcessibilidade": [
+      "Instruções por meio de animações visuais, dispensando a necessidade inicial de leitura",
+      "Feedback auditivo imediato (emissão do som do animal ao clicar no balão de diálogo)",
+      "Interface baseada em material físico adaptado para pessoas com TEA"
+    ],
+    "evidenciasCientificas": [
+      "Avaliação exploratória de usabilidade",
+      "Estudo exploratório com aplicação de questionário de usabilidade adaptado (VisAWI) durante uma formação pedagógica"
+    ]
+  },
+  {
+    "id": "J9",
+    "titulo": "Explorando as Estações (ou “Conhecendo as Estações”)",
+    "ano": 2024,
+    "imagem": null,
+    "descricao": "A plataforma multiplataforma aborda as estações do ano e os fenômenos sazonais, visando desenvolver a capacidade de reconhecer suas características. Trabalha comparação, classificação e identificação por meio de atividades de arrastar e soltar, organizadas nos módulos conhecer, parear e associar.",
+    "plataformas": [
+      "Aplicação multiplataforma"
+    ],
+    "linkAcesso": "https://github.com/mssiedler/MaisLudusTemplate",
+    "linkArtigo": "https://sol.sbc.org.br/index.php/sbgames/article/view/32326/32123",
+    "autores": [
+      "Marcelo Siedler",
+      "Rafael Cardoso",
+      "Elena Lemes",
+      "Michele Schmidt",
+      "Tatiana Tavares",
+      "Tiago Primo"
+    ],
+    "areaConhecimento": [
+      "Ciências da Natureza"
+    ],
+    "conteudos": [
+      "Estações do ano e fenômenos sazonais"
+    ],
+    "objetivosAprendizagem": "Desenvolver a capacidade de reconhecer e identificar as estações do ano e suas características.",
+    "habilidades": [
+      "Comparação",
+      "Classificação",
+      "Identificação de características e mudanças em objetos e materiais"
+    ],
+    "alinhamentoBNCC": false,
+    "alinhamentoDetalhe": "Não se aplica",
+    "fundamentacaoPedagogica": [
+      "Desenho Universal para Aprendizagem (DUA)",
+      "Princípios da Gestalt"
+    ],
+    "faixasEtarias": [
+      "Crianças"
+    ],
+    "idade": "Não informado",
+    "nivelSuporte": "Não informado",
+    "nivelEducacional": [
+      "Educação Infantil"
+    ],
+    "mecanicas": [
+      "Estilo “drag and drop” (arrastar e soltar)",
+      "Dividido em três módulos: Conhecer (leitura e descrição textual), Parear (associar imagem à sombra correspondente) e Associar (relacionar cartas de dica à estação climática)"
+    ],
+    "recursosAcessibilidade": [
+      "Uso da tipografia Roboto para maior legibilidade",
+      "Cores associadas a sensações (azul para calma e laranja para criatividade)",
+      "Formas geométricas simples",
+      "Ícones sem texto",
+      "Fundo estático para evitar distrações e sobrecarga sensorial",
+      "Posicionamento fixo dos botões para garantir previsibilidade"
+    ],
+    "evidenciasCientificas": [
+      "Relato de reformulação de interface baseada em avaliação exploratória prévia",
+      "Estudo de caso de reformulação do design de interface utilizando Design Centrado no Usuário"
+    ]
+  },
+  {
+    "id": "J10",
+    "titulo": "Material Dourado Digital (MDD)",
+    "ano": 2024,
+    "imagem": null,
+    "descricao": "Disponível para computadores e dispositivos móveis com tela sensível ao toque, o jogo aborda o sistema de numeração decimal e o valor posicional. Busca ensinar conceitos matemáticos por meio de representações concretas e simbólicas, desenvolvendo raciocínio lógico-matemático, coordenação motora e compreensão numérica. Utiliza atividades de arrastar e soltar, duplo clique, agrupamento de unidades e dezenas e recompensas visuais e sonoras.",
+    "plataformas": [
+      "Versão desktop",
+      "Dispositivos móveis",
+      "Interação via touch screen"
+    ],
+    "linkAcesso": "https://www.construct.net/en/free-online-games/material-dourado-unidade-17824/play",
+    "linkArtigo": "https://sol.sbc.org.br/index.php/sbgames_estendido/article/view/27937/27747",
+    "autores": [
+      "Isabel Silva"
+    ],
+    "areaConhecimento": [
+      "Matemática"
+    ],
+    "conteudos": [
+      "Sistema de numeração decimal",
+      "Valor posicional"
+    ],
+    "objetivosAprendizagem": "Ensinar conceitos matemáticos por meio de símbolos, algoritmos, processos e atividades concretas, estimulando também a interação e a comunicação.",
+    "habilidades": [
+      "Raciocínio lógico-matemático",
+      "Coordenação motora fina",
+      "Percepção sensorial",
+      "Linguagem",
+      "Compreensão matemática"
+    ],
+    "alinhamentoBNCC": false,
+    "alinhamentoDetalhe": "Não se aplica",
+    "fundamentacaoPedagogica": [
+      "Não informado"
+    ],
+    "faixasEtarias": [
+      "Crianças"
+    ],
+    "idade": "Não informado",
+    "nivelSuporte": "Não informado",
+    "nivelEducacional": [
+      "Ensino Fundamental"
+    ],
+    "mecanicas": [
+      "Interação dual: Arrastar e soltar (drag and drop) para trabalhar motricidade fina ou duplo clique para movimentação automática da peça (para crianças com limitações motoras)",
+      "Encaixe automático: Peças se ajustam ao quadro correspondente ao serem soltas próximas a ele",
+      "Transformação automática: Quando o usuário atinge 10 unidades, elas se transformam visualmente em uma dezena vermelha e se movem para o quadro correto",
+      "Elementos de Gamificação: Desafios de representação numérica, sistema de recompensas visuais e sonoras (partículas coloridas) e mascote animada (abelha) com balões de diálogo",
+      "Feedback de atenção: Áreas que “piscam” em cores alternadas para incentivar a identificação mental do número formado"
+    ],
+    "recursosAcessibilidade": [
+      "Opção de duplo clique para crianças com motricidade fina em desenvolvimento",
+      "Prevenção da frustração (ausência de sons de erro e retorno silencioso das peças à posição inicial em caso de erro)",
+      "Interface simplificada (paleta de cores pastéis e categorização por cores para unidades, dezenas e centenas)",
+      "Estímulo à autonomia (mascote com instruções visuais, feedback sonoro desabilitável e exibição automática da resposta após 15 segundos de inatividade)"
+    ],
+    "evidenciasCientificas": [
+      "Relato de experiência e avaliação exploratória",
+      "Relato de experiência de desenvolvimento baseado em Design Centrado no Usuário, incluindo levantamento de requisitos e testes com usuários"
+    ]
+  },
+  {
+    "id": "J11",
+    "titulo": "ArrasTE-A",
+    "ano": 2022,
+    "imagem": null,
+    "descricao": "Disponível na Web, em computadores e tablets, trabalha formas geométricas, cores, tamanhos e reconhecimento de elementos, apoiando as atividades desenvolvidas no AEE. Estimula percepção visual e auditiva, concentração e coordenação motora fina por meio de atividades de pareamento, associação e pintura de objetos.",
+    "plataformas": [
+      "Aplicação Web",
+      "Computadores",
+      "Tablets"
+    ],
+    "linkAcesso": "Não fornecido - Consultar os autores do artigo",
+    "linkArtigo": "https://sol.sbc.org.br/index.php/sbgames_estendido/article/view/23794/23623",
+    "autores": [
+      "Marcelo Siedler",
+      "Rafael Cardoso",
+      "J. Krebs",
+      "Tatiana Tavares"
+    ],
+    "areaConhecimento": [
+      "Matemática",
+      "Ciências da Natureza"
+    ],
+    "conteudos": [
+      "Formas geométricas",
+      "Cores",
+      "Tamanhos",
+      "Reconhecimento de elementos"
+    ],
+    "objetivosAprendizagem": "Apoiar o desenvolvimento de competências educacionais trabalhadas pelos professores no Atendimento Educacional Especializado (AEE).",
+    "habilidades": [
+      "Percepção visual",
+      "Reconhecimento de formas, cores e tamanhos",
+      "Coordenação motora fina",
+      "Concentração",
+      "Percepção auditiva"
+    ],
+    "alinhamentoBNCC": false,
+    "alinhamentoDetalhe": "Não se aplica",
+    "fundamentacaoPedagogica": [
+      "Modelo Denver de Intervenção Precoce (ESDM)"
+    ],
+    "faixasEtarias": [
+      "Crianças"
+    ],
+    "idade": "Não informado",
+    "nivelSuporte": "Não informado",
+    "nivelEducacional": [
+      "Educação Infantil"
+    ],
+    "mecanicas": [
+      "Interação por arrastar e soltar (drag and drop) sempre da esquerda para a direita",
+      "Inclui pareamento unitário e composto de formas, pareamento por tamanho e misto, além de colorir objetos e associar animais aos seus sons"
+    ],
+    "recursosAcessibilidade": [
+      "Design limpo, sem distrações visuais",
+      "Orientações de arraste na tela",
+      "Feedback sonoro positivo (ex.: “Muito bem!”)",
+      "Ausência de punições e sons de erro para evitar frustrações",
+      "Interface multiplataforma"
+    ],
+    "evidenciasCientificas": [
+      "Avaliação exploratória e validação de protótipo",
+      "Estudo de caso focado no desenvolvimento de software e na validação pedagógica"
+    ]
+  },
+  {
+    "id": "J12",
+    "titulo": "RepeTEA (executado na plataforma T-TEA)",
+    "ano": 2022,
+    "imagem": null,
+    "descricao": "Utiliza chão interativo, projetor, computador e câmera para desenvolver jogos digitais ativos e atividades motoras fundamentadas nos princípios da ABA. Busca estimular memória de curto prazo, concentração e coordenação motora por meio da memorização de sequências de figuras geométricas projetadas no chão, exigindo deslocamento físico dos participantes.",
+    "plataformas": [
+      "Plataforma de chão interativo",
+      "Projetor de vídeo",
+      "Computador",
+      "Câmera convencional"
+    ],
+    "linkAcesso": "Não fornecido - Consultar os autores do artigo",
+    "linkArtigo": "https://sol.sbc.org.br/index.php/sbgames_estendido/article/view/23689/23518",
+    "autores": [
+      "André Trindade",
+      "Gabriel Pereira",
+      "Marcelo Hounsell"
+    ],
+    "areaConhecimento": [
+      "Educação Física",
+      "Tecnologia Educacional"
+    ],
+    "conteudos": [
+      "Jogos digitais ativos",
+      "Atividades motoras (exergames)"
+    ],
+    "objetivosAprendizagem": "Estimular a memória de curto prazo, a concentração e a coordenação motora por meio de atividades interativas fundamentadas nos princípios da ABA.",
+    "habilidades": [
+      "Memória de curto prazo",
+      "Atenção",
+      "Habilidades psicomotoras"
+    ],
+    "alinhamentoBNCC": false,
+    "alinhamentoDetalhe": "Não se aplica",
+    "fundamentacaoPedagogica": [
+      "Análise do Comportamento Aplicada (ABA)"
+    ],
+    "faixasEtarias": [
+      "Geral"
+    ],
+    "idade": "Não informado",
+    "nivelSuporte": "Não informado",
+    "nivelEducacional": [
+      "Não informado"
+    ],
+    "mecanicas": [
+      "O jogador deve memorizar uma sequência aleatória de acendimento de blocos lógicos (quadrado, círculo, retângulo e triângulo) projetados no chão. A interação exige que o jogador se desloque fisicamente até a figura correspondente e retorne à base. O jogo oferece dicas visuais (ajuda) se o jogador demorar a responder e fornece feedbacks sonoros e visuais (como rostos felizes ou tristes) de acordo com o acerto ou erro"
+    ],
+    "recursosAcessibilidade": [
+      "Personalização da paleta de cores (incluindo opção monocromática para pessoas com sensibilidade visual)",
+      "Controle ou desativação de sons",
+      "Ajuste dos tempos de exposição e resposta",
+      "Opção de ocultar informações durante a projeção para evitar excesso de estímulos"
+    ],
+    "evidenciasCientificas": [
+      "Avaliação exploratória realizada com especialistas das áreas de saúde e educação",
+      "Desenvolvimento tecnológico seguido de survey (questionário eletrônico)"
+    ]
+  },
+  {
+    "id": "J13",
+    "titulo": "Jogo não nomeado",
+    "ano": 2022,
+    "imagem": null,
+    "descricao": "Disponível para dispositivos móveis, aborda vestuário e habilidades de autocuidado, visando desenvolver autonomia nas atividades da vida diária. Trabalha atenção e independência por meio de atividades de escolha de roupas conforme a estação do ano ou situações específicas.",
+    "plataformas": [
+      "Dispositivos móveis"
+    ],
+    "linkAcesso": "Não fornecido - Consultar os autores do artigo",
+    "linkArtigo": "https://sol.sbc.org.br/index.php/sbgames_estendido/article/view/23690/23519",
+    "autores": [
+      "Victória Cavalcante",
+      "Jorge Junior"
+    ],
+    "areaConhecimento": [
+      "Educação Especial",
+      "Autonomia e Autocuidado"
+    ],
+    "conteudos": [
+      "Vestuário",
+      "Habilidades de autocuidado"
+    ],
+    "objetivosAprendizagem": "Desenvolver habilidades necessárias à realização de atividades da vida diária, promovendo maior autonomia.",
+    "habilidades": [
+      "Atenção",
+      "Autonomia",
+      "Independência nas atividades de higiene e vestuário"
+    ],
+    "alinhamentoBNCC": false,
+    "alinhamentoDetalhe": "Não se aplica",
+    "fundamentacaoPedagogica": [
+      "Não informado"
+    ],
+    "faixasEtarias": [
+      "Crianças"
+    ],
+    "idade": "Não informado",
+    "nivelSuporte": "Não informado",
+    "nivelEducacional": [
+      "Educação Infantil"
+    ],
+    "mecanicas": [
+      "Atividades voltadas ao aprendizado de vestir-se de acordo com a estação do ano ou situação específica",
+      "Inclui funcionalidades adaptáveis às particularidades e necessidades individuais das crianças autistas"
+    ],
+    "recursosAcessibilidade": [
+      "Funcionalidades adaptáveis",
+      "Interface projetada para estimular a atenção sem excesso de estímulos que possam provocar reações negativas, crises ou desconforto sensorial"
+    ],
+    "evidenciasCientificas": [
+      "Avaliação exploratória baseada no teste de um protótipo funcional por especialistas",
+      "Desenvolvimento tecnológico centrado no usuário, utilizando entrevistas iniciais para elicitação de requisitos e avaliação posterior por meio de questionário com escala Likert e perguntas abertas"
+    ]
+  },
+  {
+    "id": "J14",
+    "titulo": "Meu Jardim de Emoções",
+    "ano": 2021,
+    "imagem": null,
+    "descricao": "Disponível na Web, em computadores e tablets, aborda emoções básicas e expressões faciais, buscando desenvolver habilidades emocionais em crianças e adolescentes com autismo. Estimula inteligência emocional, reconhecimento facial e competências socioemocionais por meio da interpretação de animações e seleção das emoções correspondentes.",
+    "plataformas": [
+      "Aplicação Web",
+      "Computadores e tablets"
+    ],
+    "linkAcesso": "Não fornecido - Consultar os autores do artigo",
+    "linkArtigo": "https://sol.sbc.org.br/index.php/sbgames_estendido/article/view/19688/19516",
+    "autores": [
+      "Samara Oliveira",
+      "Ana Arantes",
+      "Virgínia Mota"
+    ],
+    "areaConhecimento": [
+      "Educação Socioemocional"
+    ],
+    "conteudos": [
+      "Emoções básicas",
+      "Expressões faciais"
+    ],
+    "objetivosAprendizagem": "Desenvolver habilidades emocionais em crianças e adolescentes com autismo.",
+    "habilidades": [
+      "Inteligência emocional",
+      "Reconhecimento de expressões faciais",
+      "Habilidades socioemocionais intra e interpessoais"
+    ],
+    "alinhamentoBNCC": false,
+    "alinhamentoDetalhe": "Não se aplica",
+    "fundamentacaoPedagogica": [
+      "Análise do Comportamento Aplicada (ABA)"
+    ],
+    "faixasEtarias": [
+      "Crianças",
+      "Adolescentes"
+    ],
+    "idade": "Não informado",
+    "nivelSuporte": "Não informado",
+    "nivelEducacional": [
+      "Não informado"
+    ],
+    "mecanicas": [
+      "O jogador assiste a uma animação de uma situação cotidiana e deve selecionar a ficha correta que representa a emoção do personagem",
+      "Utiliza reforço positivo (sem punição ao erro) e um sistema de pontuação onde acertos adicionam flores a um jardim virtual"
+    ],
+    "recursosAcessibilidade": [
+      "Uso de audiodescrição",
+      "Textos simples",
+      "Ausência de estímulos sonoros desnecessários",
+      "Diversidade de personagens, incluindo diferentes etnias e pessoas com deficiência física"
+    ],
+    "evidenciasCientificas": [
+      "Proposta conceitual (descrição do desenvolvimento e fundamentação do sistema)",
+      "Descrição de projeto tecnológico baseada em revisão bibliográfica e aplicação de princípios pedagógicos"
+    ]
+  },
+  {
+    "id": "J15",
+    "titulo": "Strong",
+    "ano": 2021,
+    "imagem": null,
+    "descricao": "Disponível para dispositivos móveis com tela sensível ao toque, trabalha cores, números, formas geométricas, emoções e comunicação de necessidades, visando aprimorar aprendizagem, comunicação e autonomia. Desenvolve planejamento, concentração, raciocínio, atenção, percepção e memória por meio de atividades baseadas nos métodos TEACCH e PECS, com pareamento de imagens e progressão sequencial.",
+    "plataformas": [
+      "Dispositivos móveis com tela sensível ao toque (touchscreen)"
+    ],
+    "linkAcesso": "Não fornecido - Consultar os autores do artigo",
+    "linkArtigo": "https://sol.sbc.org.br/index.php/sbgames_estendido/article/view/19692/19520",
+    "autores": [
+      "Noemi Honorato",
+      "Adilson Santos",
+      "Saul Delabrida",
+      "Alan Freitas",
+      "Wilk Oliveira"
+    ],
+    "areaConhecimento": [
+      "Matemática",
+      "Educação Socioemocional"
+    ],
+    "conteudos": [
+      "Cores",
+      "Números",
+      "Formas geométricas",
+      "Emoções",
+      "Comunicação de necessidades"
+    ],
+    "objetivosAprendizagem": "Aprimorar a aprendizagem, a comunicação, a autonomia e a independência de crianças autistas.",
+    "habilidades": [
+      "Motivação para aprender",
+      "Planejamento",
+      "Concentração",
+      "Raciocínio",
+      "Atenção",
+      "Percepção",
+      "Memória"
+    ],
+    "alinhamentoBNCC": false,
+    "alinhamentoDetalhe": "Não se aplica",
+    "fundamentacaoPedagogica": [
+      "Programa TEACCH"
+    ],
+    "faixasEtarias": [
+      "Crianças"
+    ],
+    "idade": "4 a 6 anos",
+    "nivelSuporte": "Não informado",
+    "nivelEducacional": [
+      "Educação Infantil"
+    ],
+    "mecanicas": [
+      "Interação baseada no Método TEACCH (organização da esquerda para a direita) e no sistema PECS (troca de imagens)",
+      "Inclui aprendizagem incremental com tutorial visual (mão deslizando), técnica de pareamento (arrastar e soltar objetos sobre sombras correspondentes), linearidade sequencial de fases e sistema de recompensas com feedbacks visuais e auditivos (ex: placa “Genial”)"
+    ],
+    "recursosAcessibilidade": [
+      "Audiodescrição humanizada (voz gravada pelos autores), associada a textos e imagens",
+      "Configuração opcional de áudio para evitar desconforto sensorial",
+      "Uso de personagens infantis coloridos (ex.: urso)",
+      "Interface simplificada, sem poluição visual"
+    ],
+    "evidenciasCientificas": [
+      "Avaliação exploratória baseada no feedback de especialistas da área",
+      "Desenvolvimento tecnológico multidisciplinar, seguido de entrevistas e avaliação do produto por profissionais"
+    ]
+  },
+  {
+    "id": "J16",
+    "titulo": "Zow Learning",
+    "ano": 2020,
+    "imagem": null,
+    "descricao": "Utiliza dispositivos móveis, Android e óculos de realidade virtual para apoiar intervenções terapêuticas de pessoas com deficiência. Aborda cores, letras, formas, animais, emoções e outros estímulos, desenvolvendo repertório comportamental e habilidades cognitivas. Fundamenta-se nos princípios da ABA e do Treino de Tentativas Discretas (DTT), utilizando ambientes 3D, hierarquia de dicas e reforços positivos.",
+    "plataformas": [
+      "Dispositivos móveis",
+      "Android",
+      "Tecnologia de Realidade Virtual (VR)",
+      "Óculos imersivos"
+    ],
+    "linkAcesso": "Não fornecido - Consultar os autores do artigo",
+    "linkArtigo": "https://www.sbgames.org/proceedings2020/JogosSaudeFull/209650.pdf",
+    "autores": [
+      "Vítor Jordão",
+      "Daniel Nipo",
+      "Raphael Lima"
+    ],
+    "areaConhecimento": [
+      "Linguagem",
+      "Matemática",
+      "Ciências Humanas",
+      "Educação Socioemocional"
+    ],
+    "conteudos": [
+      "Cores",
+      "Letras",
+      "Formas",
+      "Animais",
+      "Agentes públicos",
+      "Emoções",
+      "Sensações"
+    ],
+    "objetivosAprendizagem": "Proporcionar um ambiente adequado para intervenções terapêuticas de pessoas com deficiência.",
+    "habilidades": [
+      "Repertório comportamental",
+      "Reconhecimento de estímulos",
+      "Habilidades cognitivas"
+    ],
+    "alinhamentoBNCC": false,
+    "alinhamentoDetalhe": "Não se aplica",
+    "fundamentacaoPedagogica": [
+      "Ensino por Tentativas Discretas (DTT)",
+      "Análise do Comportamento Aplicada (ABA)"
+    ],
+    "faixasEtarias": [
+      "Crianças"
+    ],
+    "idade": "Não informado",
+    "nivelSuporte": "Não informado",
+    "nivelEducacional": [
+      "Não informado"
+    ],
+    "mecanicas": [
+      "Baseado no Treino de Tentativas Discretas (DTT) e terapia ABA",
+      "Utiliza apresentação de estímulos em ambiente 3D, hierarquia de dicas (ajuda imediata), reforço positivo (elogios, palmas e sistema de economia de fichas com estrelas), processo de correção (reapresentação suave do estímulo após erro) e narrativa protagonizada pelo alienígena Zow"
+    ],
+    "recursosAcessibilidade": [
+      "Uso de realidade virtual para promover imersão e foco",
+      "Audiodescrição",
+      "Sons personalizados para usuários não alfabetizados",
+      "Interface simplificada, sem estímulos aversivos",
+      "Modo de espelhamento de tela para supervisão do terapeuta"
+    ],
+    "evidenciasCientificas": [
+      "Proposta conceitual e avaliação exploratória (benchmarking técnico de aplicativos)",
+      "Desenvolvimento tecnológico multidisciplinar e análise comparativa de mercado, com revisão de aplicativos disponíveis em lojas digitais"
+    ]
+  },
+  {
+    "id": "J17",
+    "titulo": "LetRA",
+    "ano": 2020,
+    "imagem": null,
+    "descricao": "Utiliza realidade aumentada em dispositivos móveis, associada a um livro didático físico, para trabalhar o alfabeto e a correspondência entre letras e sons. Busca desenvolver habilidades de alfabetização, reconhecimento de letras, consciência fonológica e vocabulário por meio de modelos 3D animados, apresentação de sons e desafios de identificação.",
+    "plataformas": [
+      "Tecnologia de Realidade Aumentada (RA)",
+      "Dispositivos móveis",
+      "Smartphones",
+      "Tablets",
+      "Em conjunto com um livro didático físico que serve como marcador de referência para a projeção"
+    ],
+    "linkAcesso": "Não fornecido - Consultar os autores do artigo",
+    "linkArtigo": "https://www.sbgames.org/proceedings2020/EducacaoShort/209755.pdf",
+    "autores": [
+      "Lívia Balog",
+      "Luiz Ribeiro"
+    ],
+    "areaConhecimento": [
+      "Linguagem",
+      "Língua Portuguesa"
+    ],
+    "conteudos": [
+      "Alfabeto",
+      "Associação entre letras e sons"
+    ],
+    "objetivosAprendizagem": "Apoiar o desenvolvimento de habilidades de alfabetização em crianças com TEA.",
+    "habilidades": [
+      "Reconhecimento de letras e palavras",
+      "Consciência fonológica",
+      "Vocabulário",
+      "Engajamento nas atividades de aprendizagem"
+    ],
+    "alinhamentoBNCC": false,
+    "alinhamentoDetalhe": "Não se aplica",
+    "fundamentacaoPedagogica": [
+      "Análise do Comportamento Aplicada (ABA)"
+    ],
+    "faixasEtarias": [
+      "Crianças"
+    ],
+    "idade": "Não informado",
+    "nivelSuporte": "Não informado",
+    "nivelEducacional": [
+      "Educação Infantil",
+      "Anos iniciais do Ensino Fundamental"
+    ],
+    "mecanicas": [
+      "O jogador aponta o dispositivo móvel para as ilustrações do livro para ativar modelos 3D animados",
+      "O aplicativo emite áudios apresentando a letra e o objeto correspondente",
+      "O sistema oculta a forma escrita e propõe um desafio de identificação entre três botões",
+      "Ao clicar na opção certa, ocorre um feedback sonoro alegre e uma animação do objeto",
+      "Em caso de erro, o botão torna-se cinza e inativo para novas tentativas"
+    ],
+    "recursosAcessibilidade": [
+      "Uso de realidade aumentada para atrair a atenção e despertar o interesse",
+      "Audiodescrição de todos os elementos verbais",
+      "Reforço positivo imediato para evitar frustrações",
+      "Disponibilização de variantes das letras (maiúsculas, minúsculas, de forma e cursivas) no verso das páginas como suporte adicional"
+    ],
+    "evidenciasCientificas": [
+      "Proposta conceitual e técnica, acompanhada de protocolo detalhado para validação futura",
+      "Desenvolvimento tecnológico centrado no usuário, baseado em revisão sistemática e modelos pedagógicos comportamentais"
+    ]
+  },
+  {
+    "id": "J18",
+    "titulo": "ABC Autismo Animai",
+    "ano": 2019,
+    "imagem": null,
+    "descricao": "Disponível para Android e iOS, a plataforma aborda leitura e escrita contextualizadas em animais domésticos e habitats, visando desenvolver habilidades de alfabetização em crianças com autismo. Estimula coordenação motora fina, percepção visual, categorização e formação de palavras por meio de atividades de pareamento, quebra-cabeças e formação de sílabas e palavras.",
+    "plataformas": [
+      "Dispositivos móveis",
+      "Android",
+      "iOS"
+    ],
+    "linkAcesso": "http://bit.ly/abcanimais",
+    "linkArtigo": "https://www.sbgames.org/sbgames2019/files/papers/EducacaoFull/198411.pdf",
+    "autores": [
+      "Lukas Carvalho",
+      "Mônica Cunha"
+    ],
+    "areaConhecimento": [
+      "Linguagem",
+      "Língua Portuguesa",
+      "Ciências da Natureza"
+    ],
+    "conteudos": [
+      "Leitura e escrita contextualizadas em animais domésticos e habitats"
+    ],
+    "objetivosAprendizagem": "Desenvolver habilidades de leitura e escrita em crianças com autismo.",
+    "habilidades": [
+      "Coordenação motora fina",
+      "Percepção visual",
+      "Seleção",
+      "Categorização",
+      "Reconhecimento de letras",
+      "Formação de sílabas e palavras"
+    ],
+    "alinhamentoBNCC": false,
+    "alinhamentoDetalhe": "Não se aplica",
+    "fundamentacaoPedagogica": [
+      "Programa TEACCH",
+      "Análise do Comportamento Aplicada (ABA)"
+    ],
+    "faixasEtarias": [
+      "Crianças"
+    ],
+    "idade": "3 a 5 anos",
+    "nivelSuporte": "Não informado",
+    "nivelEducacional": [
+      "Educação Infantil",
+      "Anos iniciais do Ensino Fundamental"
+    ],
+    "mecanicas": [
+      "Atividades de transposição de figuras (da esquerda para a direita), emparelhamento de elementos (por tipo, tamanho, cor e forma), quebra-cabeças para noção de todo e partes, e formação de palavras através da técnica de esvanecimento de dicas",
+      "Inclui sistema de recompensa com estrelas e desbloqueio progressivo de 40 atividades divididas em quatro níveis"
+    ],
+    "recursosAcessibilidade": [
+      "Design gráfico limpo e previsível para evitar distrações",
+      "Uso de pistas e dicas visuais hierarquizadas",
+      "Suporte a cinco idiomas (português, inglês, espanhol, francês e italiano)",
+      "Interface intuitiva, que dispensa instruções verbais constantes do mediador"
+    ],
+    "evidenciasCientificas": [
+      "Avaliação exploratória baseada em pareceres de especialistas e testes de usabilidade",
+      "Design participativo, com colaboração de equipe multidisciplinar, seguido de desenvolvimento de MVP e validação em três etapas (avaliação por especialistas, testes de usabilidade com usuários e feedback de pais)"
+    ]
+  },
+  {
+    "id": "J19",
+    "titulo": "Brainy Mouse (BM)",
+    "ano": 2018,
+    "imagem": null,
+    "descricao": "Disponível em dispositivos móveis e na Web, aborda leitura, escrita, nutrição e alimentação saudável, buscando estimular o desenvolvimento da linguagem. Desenvolve coordenação motora fina, integração sensorial, percepção visual e autonomia por meio de cenários de restaurantes temáticos, coleta de sílabas e formação de palavras.",
+    "plataformas": [
+      "Dispositivos móveis",
+      "Celulares",
+      "Tablets",
+      "Android",
+      "iOS",
+      "Aplicação Web"
+    ],
+    "linkAcesso": "http://brainymouse.org/pt-br",
+    "linkArtigo": "https://www.sbgames.org/sbgames2018/files/papers/EducacaoFull/185447.pdf",
+    "autores": [
+      "Lúcia Lemos"
+    ],
+    "areaConhecimento": [
+      "Linguagem",
+      "Língua Portuguesa",
+      "Educação Especial"
+    ],
+    "conteudos": [
+      "Leitura",
+      "Escrita",
+      "Nutrição",
+      "Alimentação saudável"
+    ],
+    "objetivosAprendizagem": "Estimular o desenvolvimento da linguagem.",
+    "habilidades": [
+      "Coordenação motora fina",
+      "Integração sensorial",
+      "Percepção visual e motora",
+      "Ritmo",
+      "Autonomia na leitura e escrita",
+      "Solicitação de ajuda"
+    ],
+    "alinhamentoBNCC": false,
+    "alinhamentoDetalhe": "Não se aplica",
+    "fundamentacaoPedagogica": [
+      "Não informado"
+    ],
+    "faixasEtarias": [
+      "Crianças"
+    ],
+    "idade": "Não informado",
+    "nivelSuporte": "Não informado",
+    "nivelEducacional": [
+      "Educação Infantil",
+      "Anos iniciais do Ensino Fundamental"
+    ],
+    "mecanicas": [
+      "Organização de menus de restaurantes temáticos de diferentes países",
+      "Busca por “objetos-sílabas” espalhados pelo cenário para compor nomes de ingredientes",
+      "Seleção de sílabas obrigatoriamente da esquerda para a direita (ancoragem à escrita)",
+      "Interação com personagens centrais (o “rato amigo” que auxilia e o “chefe-cozinheiro” que tenta impedir o progresso)",
+      "Uso de superpoderes como o congelamento (freezing) do chefe",
+      "Sistema de recompensa com ganho de pontos (estrelas) e moedas virtuais (cheese coins)"
+    ],
+    "recursosAcessibilidade": [
+      "Personalização do layout (cores da tela, fontes das letras e músicas de fundo) para evitar desconforto sensorial",
+      "Uso do personagem “rato amigo” como suporte visual constante",
+      "Interface baseada em cores candy, proporcionando uma identidade visual cromática agradável e alegre"
+    ],
+    "evidenciasCientificas": [
+      "Avaliação exploratória baseada em relatos de testes satisfatórios pela desenvolvedora e análise teórica e sociossemiótica",
+      "Estudo de caso qualitativo com foco na análise de práticas lúdicas e de significação"
+    ]
+  },
+  {
+    "id": "J20",
+    "titulo": "ACA (Aprendendo com Comunicação Alternativa)",
+    "ano": 2018,
+    "imagem": null,
+    "descricao": "Disponível para smartphones e tablets, trabalha letras, sílabas, palavras, higiene e autocuidado, buscando familiarizar as crianças com atividades e rotinas cotidianas. Estimula comunicação, compreensão leitora, reconhecimento de objetos e coordenação motora por meio de atividades de clicar, arrastar e parear imagens, organizadas em seis níveis progressivos.",
+    "plataformas": [
+      "Dispositivos móveis",
+      "Smartphones",
+      "Tablets"
+    ],
+    "linkAcesso": "Não fornecido - Consultar os autores do artigo",
+    "linkArtigo": "https://www.sbgames.org/sbgames2018/files/papers/EducacaoFull/187644.pdf",
+    "autores": [
+      "Maria Gobbo",
+      "Cinthyan Barbosa",
+      "Marcelo Morandini",
+      "Fernanda Mafort",
+      "José Mioni"
+    ],
+    "areaConhecimento": [
+      "Linguagem",
+      "Língua Portuguesa",
+      "Educação Especial"
+    ],
+    "conteudos": [
+      "Letras",
+      "Sílabas",
+      "Palavras",
+      "Higiene",
+      "Autocuidado"
+    ],
+    "objetivosAprendizagem": "Familiarizar as crianças com as atividades e rotinas realizadas no cotidiano.",
+    "habilidades": [
+      "Comunicação",
+      "Compreensão leitora",
+      "Reconhecimento de objetos",
+      "Coordenação motora fina",
+      "Percepção visual"
+    ],
+    "alinhamentoBNCC": false,
+    "alinhamentoDetalhe": "Não se aplica",
+    "fundamentacaoPedagogica": [
+      "Equivalência de Estímulos",
+      "Programa TEACCH",
+      "Sistema de Comunicação por Troca de Figuras (PECS)",
+      "Modelo de Tétrade Elementar"
+    ],
+    "faixasEtarias": [
+      "Crianças"
+    ],
+    "idade": "Não informado",
+    "nivelSuporte": "Não informado",
+    "nivelEducacional": [
+      "Educação Infantil",
+      "Anos iniciais do Ensino Fundamental"
+    ],
+    "mecanicas": [
+      "Interação por clicar e arrastar (drag and drop)",
+      "Sistema de progressão em árvore com seis níveis",
+      "Emparelhamento de formas e imagens",
+      "Estímulo de som-figura",
+      "Elementos de gamificação como pontos, medalhas, troféus e níveis bloqueados"
+    ],
+    "recursosAcessibilidade": [
+      "Interface com poucos estímulos visuais (predominância de tons azuis)",
+      "Botões com ícones em substituição a textos",
+      "Animação tutorial (ícone de interrogação) para demonstrar as ações necessárias",
+      "Feedbacks sonoros e visuais positivos",
+      "Ausência de reforços negativos em caso de erro"
+    ],
+    "evidenciasCientificas": [
+      "Proposta conceitual e relato de desenvolvimento de software",
+      "Estudo de caso de desenvolvimento fundamentado em levantamento bibliográfico e metodologias pedagógicas"
+    ]
+  },
+  {
+    "id": "J21",
+    "titulo": "ACA (Aprendendo com Comunicação Alternativa)",
+    "ano": 2019,
+    "imagem": null,
+    "descricao": "Disponível para dispositivos móveis e Android, aborda alfabetização, vocabulário e atividades cotidianas, visando desenvolver a nomeação de objetos, o reconhecimento do alfabeto e a formação de palavras. Trabalha consciência fonológica, ampliação do vocabulário e comunicação alternativa por meio de cinco níveis progressivos de atividades de reconhecimento, associação e leitura.",
+    "plataformas": [
+      "Dispositivos móveis",
+      "Android"
+    ],
+    "linkAcesso": "Não fornecido - Consultar os autores do artigo",
+    "linkArtigo": "https://sol.sbc.org.br/index.php/sbie/article/view/40140/39912",
+    "autores": [
+      "Maria Gobbo",
+      "Cinthyan Barbosa",
+      "Marcelo Morandini",
+      "Fernanda Mafort"
+    ],
+    "areaConhecimento": [
+      "Linguagem",
+      "Língua Portuguesa",
+      "Educação Especial"
+    ],
+    "conteudos": [
+      "Alfabetização",
+      "Vocabulário",
+      "Atividades cotidianas"
+    ],
+    "objetivosAprendizagem": "Desenvolver a nomeação de objetos, o reconhecimento do alfabeto, a formação de sílabas e palavras, ampliando o vocabulário e as habilidades de alfabetização.",
+    "habilidades": [
+      "Ampliação do vocabulário",
+      "Reconhecimento de letras e sílabas",
+      "Consciência fonológica",
+      "Autonomia na comunicação alternativa"
+    ],
+    "alinhamentoBNCC": false,
+    "alinhamentoDetalhe": "Não se aplica",
+    "fundamentacaoPedagogica": [
+      "Programa TEACCH",
+      "Equivalência de Estímulos",
+      "Método fônico de alfabetização"
+    ],
+    "faixasEtarias": [
+      "Crianças",
+      "Adolescentes"
+    ],
+    "idade": "2 a 15 anos",
+    "nivelSuporte": "Não informado",
+    "nivelEducacional": [
+      "Educação Infantil",
+      "Anos iniciais do Ensino Fundamental"
+    ],
+    "mecanicas": [
+      "O jogo é estruturado em cinco níveis: distinção de formas; leitura com compreensão e nomeação de objetos; ensino do alfabeto; sílabas simples; e associação entre imagem e palavra escrita",
+      "Utiliza interações de clicar e arrastar, técnica de pareamento multimodelo e elementos de gamificação como pontos, medalhas e troféus"
+    ],
+    "recursosAcessibilidade": [
+      "Interface limpa, com imagens simplificadas para evitar distrações",
+      "Uso de cores frias e opção de fundo escuro para pessoas com sensibilidade visual",
+      "Ausência de sons altos e desnecessários",
+      "Design fundamentado em recomendações para interfaces multitoque destinadas ao público autista"
+    ],
+    "evidenciasCientificas": [
+      "Avaliação experimental controlada (delineamento com pré-teste e pós-teste para mensuração da eficácia)",
+      "Experimento com abordagens quantitativa e qualitativa"
+    ]
+  },
+  {
+    "id": "J22",
+    "titulo": "K-HUNTERS (abreviação de Knowledgemon Hunters)",
+    "ano": 2020,
+    "imagem": null,
+    "descricao": "Utiliza dispositivos móveis, geoprocessamento, realidade aumentada e realidade virtual para trabalhar vogais e conteúdos educacionais mediados por objetos de aprendizagem. Busca apoiar o ensino-aprendizagem e estimular a interação social, desenvolvendo habilidades cognitivas, comunicação e colaboração.",
+    "plataformas": [
+      "Aplicativo para dispositivos móveis",
+      "Tecnologias de geoprocessamento",
+      "Realidade Aumentada (RA)",
+      "Realidade Virtual (RV)"
+    ],
+    "linkAcesso": "Não fornecido - Consultar os autores do artigo",
+    "linkArtigo": "https://sol.sbc.org.br/index.php/sbie/article/view/12790/12644",
+    "autores": [
+      "Salatiel Silva",
+      "Ademar Neto",
+      "Francisco Neto",
+      "Rodrigo Lima",
+      "Karla Demoly"
+    ],
+    "areaConhecimento": [
+      "Linguagem",
+      "Língua Portuguesa",
+      "Tecnologia Educacional"
+    ],
+    "conteudos": [
+      "Vogais",
+      "Conteúdos educacionais mediados por objetos de aprendizagem"
+    ],
+    "objetivosAprendizagem": "Apoiar o processo de ensino-aprendizagem e estimular a interação social, contribuindo para a redução do isolamento de crianças autistas.",
+    "habilidades": [
+      "Habilidades cognitivas",
+      "Colaboração",
+      "Comunicação",
+      "Percepção visual"
+    ],
+    "alinhamentoBNCC": false,
+    "alinhamentoDetalhe": "Não se aplica",
+    "fundamentacaoPedagogica": [
+      "Não informado"
+    ],
+    "faixasEtarias": [
+      "Crianças"
+    ],
+    "idade": "Não informado",
+    "nivelSuporte": "Não informado",
+    "nivelEducacional": [
+      "Educação Infantil",
+      "Anos iniciais do Ensino Fundamental"
+    ],
+    "mecanicas": [
+      "Exploração do espaço geográfico real para busca e captura de personagens virtuais (estilo Pokémon GO) associados a Objetos de Aprendizagem",
+      "Visualização de conteúdos via RA",
+      "Ambiente imersivo em RV (K-Hunters Immersive) para interação com os itens capturados",
+      "Sistema de perguntas e respostas sobre o conteúdo",
+      "Acúmulo de pontos (score) e chat para mensagens entre usuários próximos"
+    ],
+    "recursosAcessibilidade": [
+      "Adaptação automática de mídias (texto, áudio e vídeo) ao perfil específico de autismo do jogador",
+      "Gerenciamento por um Sistema Multiagente (MAS), responsável por analisar a eficiência da aprendizagem"
+    ],
+    "evidenciasCientificas": [
+      "Avaliação exploratória com especialistas",
+      "Desenvolvimento de software fundamentado em ontologias, seguido de survey (questionário de usabilidade e utilidade) com escala Likert"
+    ]
+  },
+  {
+    "id": "J23",
+    "titulo": "Emotismo",
+    "ano": 2020,
+    "imagem": null,
+    "descricao": "Disponível para dispositivos móveis e Android, aborda a identificação e a expressão de emoções básicas, visando desenvolver o reconhecimento e a representação de expressões faciais. Estimula comunicação emocional, percepção visual e autonomia por meio de atividades de reconhecimento, imitação facial com inteligência artificial e identificação de emoções.",
+    "plataformas": [
+      "Dispositivos móveis",
+      "Android"
+    ],
+    "linkAcesso": "Não fornecido - Consultar os autores do artigo",
+    "linkArtigo": "https://sol.sbc.org.br/index.php/sbie/article/view/12825/12679",
+    "autores": [
+      "Gustavo Nunes"
+    ],
+    "areaConhecimento": [
+      "Educação Socioemocional"
+    ],
+    "conteudos": [
+      "Identificação e expressão de emoções básicas"
+    ],
+    "objetivosAprendizagem": "Desenvolver a capacidade de reconhecer e utilizar adequadamente expressões faciais para representar emoções primárias.",
+    "habilidades": [
+      "Comunicação emocional",
+      "Percepção visual de faces",
+      "Expressão motora de emoções",
+      "Autonomia"
+    ],
+    "alinhamentoBNCC": false,
+    "alinhamentoDetalhe": "Não se aplica",
+    "fundamentacaoPedagogica": [
+      "Análise do Comportamento Aplicada (ABA)"
+    ],
+    "faixasEtarias": [
+      "Crianças"
+    ],
+    "idade": "Não informado",
+    "nivelSuporte": "Não informado",
+    "nivelEducacional": [
+      "Educação Infantil",
+      "Anos iniciais do Ensino Fundamental"
+    ],
+    "mecanicas": [
+      "O jogo possui três atividades principais: Reconhecimento de emoções via cards descritivos; Imitação de expressões faciais com validação em tempo real por Inteligência Artificial (IA) e feedback imediato; e Identificação de uma emoção específica entre várias opções",
+      "Além de permitir a Personalização de cenários socioemocionais pelos responsáveis"
+    ],
+    "recursosAcessibilidade": [
+      "Interface minimalista, sem distrações visuais",
+      "Botões com ícones e textos simples",
+      "Narração em áudio dos conteúdos textuais",
+      "Feedback imediato, positivo ou orientativo, incentivando novas tentativas",
+      "Ausência de limites de tempo para a realização das tarefas"
+    ],
+    "evidenciasCientificas": [
+      "Proposta conceitual e relato de desenvolvimento tecnológico",
+      "Estudo de caso de desenvolvimento de software baseado em levantamento bibliográfico e análise comparativa de soluções existentes"
+    ]
+  },
+  {
+    "id": "J24",
+    "titulo": "Michelzinho",
+    "ano": 2019,
+    "imagem": null,
+    "descricao": "Disponível para dispositivos móveis e Android, trabalha competências socioemocionais e emoções básicas, buscando desenvolver habilidades emocionais e sociais em pessoas com TEA. Estimula reconhecimento facial, expressão de sentimentos e interação social por meio de 50 fases temáticas que utilizam câmera e visão computacional para identificar e classificar expressões faciais.",
+    "plataformas": [
+      "Dispositivos móveis",
+      "Android"
+    ],
+    "linkAcesso": "https://play.google.com/store/apps/details?id=com.fenix.emotionmichel&pcampaignid=web_share",
+    "linkArtigo": "https://sol.sbc.org.br/index.php/sbie/article/view/40093/39865",
+    "autores": [
+      "Adilmar Dantas",
+      "Sara Melo",
+      "Leandro Neves",
+      "Taynara Milessi",
+      "Marcelo Nascimento"
+    ],
+    "areaConhecimento": [
+      "Educação Socioemocional"
+    ],
+    "conteudos": [
+      "Competências socioemocionais",
+      "Emoções básicas"
+    ],
+    "objetivosAprendizagem": "Desenvolver competências emocionais e sociais em pessoas com TEA.",
+    "habilidades": [
+      "Reconhecimento de expressões faciais",
+      "Inteligência emocional",
+      "Expressão de sentimentos",
+      "Interação social"
+    ],
+    "alinhamentoBNCC": false,
+    "alinhamentoDetalhe": "Não se aplica",
+    "fundamentacaoPedagogica": [
+      "Sistema de Codificação de Ação Facial (FACS)",
+      "Sistema de Comunicação por Troca de Figuras (PECS)"
+    ],
+    "faixasEtarias": [
+      "Crianças",
+      "Adolescentes"
+    ],
+    "idade": "Não informado",
+    "nivelSuporte": "Não informado",
+    "nivelEducacional": [
+      "Não informado"
+    ],
+    "mecanicas": [
+      "O jogo possui 50 fases temáticas onde o jogador deve reconhecer ou expressar as seis emoções básicas em frente à câmera",
+      "O sistema utiliza visão computacional em tempo real (algoritmos Viola-Jones e fluxo óptico) para detectar a face e classificar a expressão facial, fornecendo feedback imediato através do personagem 3D"
+    ],
+    "recursosAcessibilidade": [
+      "Automatização de intervenções terapêuticas por meio de interface móvel, portátil e interativa",
+      "Substituição de materiais físicos e procedimentos manuais por tecnologia de reconhecimento automático de expressões"
+    ],
+    "evidenciasCientificas": [
+      "Avaliação experimental controlada (validação com base de imagens padronizada CK+ e métricas de uso real na Google Play)",
+      "Desenvolvimento tecnológico multidisciplinar, seguido de experimento de campo e validação de algoritmos de inteligência artificial"
+    ]
+  },
+  {
+    "id": "J25",
+    "titulo": "ODS Adventure",
+    "ano": 2025,
+    "imagem": null,
+    "descricao": "O jogo é disponibilizado em plataforma web, com foco no ensino dos Objetivos de Desenvolvimento Sustentável (ODS) e no desenvolvimento do pensamento computacional. Por meio de missões em estilo RPG, os jogadores planejam sequências de movimentos para controlar personagens, resolver desafios e avançar de fase, desenvolvendo habilidades de planejamento, raciocínio lógico, organização espacial e resolução de problemas.",
+    "plataformas": [
+      "Multiplataforma",
+      "Aplicação Web"
+    ],
+    "linkAcesso": "https://github.com/Funarix/ODS-Adventure-main",
+    "linkArtigo": "https://sol.sbc.org.br/index.php/sbie/article/view/38548/38322",
+    "autores": [
+      "João Morais",
+      "Felipe Maia",
+      "Ivanilse Calderon"
+    ],
+    "areaConhecimento": [
+      "Ciências Humanas",
+      "Tecnologia Educacional",
+      "Pensamento Computacional"
+    ],
+    "conteudos": [
+      "Objetivos de Desenvolvimento Sustentável",
+      "Pensamento computacional"
+    ],
+    "objetivosAprendizagem": "Apoiar o ensino dos Objetivos de Desenvolvimento Sustentável (ODS) e estimular o pensamento computacional em crianças com TEA.",
+    "habilidades": [
+      "Planejamento",
+      "Sequenciamento",
+      "Decomposição",
+      "Abstração",
+      "Raciocínio lógico",
+      "Organização espacial",
+      "Resolução de problemas"
+    ],
+    "alinhamentoBNCC": true,
+    "alinhamentoDetalhe": "ODS – Agenda 2030",
+    "fundamentacaoPedagogica": [
+      "Não informado"
+    ],
+    "faixasEtarias": [
+      "Crianças"
+    ],
+    "idade": "Não informado",
+    "nivelSuporte": "Não informado",
+    "nivelEducacional": [
+      "Ensino Fundamental"
+    ],
+    "mecanicas": [
+      "Estilo RPG com controle de personagem através da seleção de uma sequência de setas direcionais planejada antecipadamente",
+      "Missões lúdicas baseadas nos ODS",
+      "Tutorial interativo",
+      "Sistema de recompensas simbólicas e desbloqueio progressivo de fases"
+    ],
+    "recursosAcessibilidade": [
+      "Design adaptado às demandas sensoriais (cores suaves, sons controlados e estímulos visuais não intrusivos)",
+      "Tutorial interativo e gradual",
+      "Narração e feedback sonoro adaptados",
+      "Execução diretamente no navegador, sem necessidade de instalação"
+    ],
+    "evidenciasCientificas": [
+      "Proposta conceitual e relato de desenvolvimento tecnológico",
+      "Estudo de caso de desenvolvimento centrado no usuário, fundamentado em Design Thinking"
+    ]
+  },
+  {
+    "id": "J26",
+    "titulo": "ABC Autismo Frutas",
+    "ano": 2024,
+    "imagem": null,
+    "descricao": "O jogo é disponibilizado para dispositivos móveis Android e iOS e tem como foco a alfabetização contextualizada em frutas, promovendo a autonomia na aprendizagem. Organizado em quatro níveis progressivos, apresenta atividades de associação, categorização, pareamento, quebra-cabeças e formação de palavras, desenvolvendo coordenação motora fina, percepção visual, leitura e escrita.",
+    "plataformas": [
+      "Dispositivos móveis",
+      "iOS",
+      "Android"
+    ],
+    "linkAcesso": "https://play.google.com/store/apps/details?id=com.dokye.abcautismo&pcampaignid=web_share",
+    "linkArtigo": "https://sol.sbc.org.br/index.php/sbie/article/view/31295/31098",
+    "autores": [
+      "Mônica Cunha",
+      "Lukas Carvalho"
+    ],
+    "areaConhecimento": [
+      "Linguagem",
+      "Língua Portuguesa"
+    ],
+    "conteudos": [
+      "Letras",
+      "Palavras",
+      "Alfabetização contextualizada em frutas"
+    ],
+    "objetivosAprendizagem": "Promover a autonomia e desenvolver habilidades de alfabetização por meio de atividades de ensino-aprendizagem.",
+    "habilidades": [
+      "Coordenação motora fina",
+      "Percepção visual",
+      "Seleção",
+      "Categorização",
+      "Leitura",
+      "Escrita",
+      "Autonomia na realização de tarefas"
+    ],
+    "alinhamentoBNCC": false,
+    "alinhamentoDetalhe": "Não se aplica",
+    "fundamentacaoPedagogica": [
+      "Programa TEACCH"
+    ],
+    "faixasEtarias": [
+      "Crianças"
+    ],
+    "idade": "Não informado",
+    "nivelSuporte": "Não informado",
+    "nivelEducacional": [
+      "Educação Infantil",
+      "Anos iniciais do Ensino Fundamental"
+    ],
+    "mecanicas": [
+      "O jogo é estruturado em quatro níveis de dificuldade baseados no programa TEACCH: transposição de figuras da esquerda para a direita (nível 1); combinação e categorização por cor, forma e tamanho (nível 2); pareamento de conceitos abstratos e quebra-cabeças (nível 3); e formação de palavras com a técnica de esvanecimento de dicas (nível 4)",
+      "Inclui sistema de recompensas com coleta de estrelas e reforços positivos (congratulações)"
+    ],
+    "recursosAcessibilidade": [
+      "Interface intuitiva, fundamentada nas orientações do Guia GAIA e do Design Centrado no Usuário (DCU)",
+      "Eliminação de elementos distratores (design clean)",
+      "Uso de dicas visuais graduais",
+      "Previsibilidade das telas para evitar ansiedade decorrente de mudanças na rotina"
+    ],
+    "evidenciasCientificas": [
+      "Avaliação exploratória baseada em testes de usabilidade e validação com pedagogos",
+      "Estudo metodológico fundamentado no Design Centrado no Usuário (DCU), abrangendo as fases de análise, desenho, implementação e validação"
+    ]
+  },
+  {
+    "id": "J27",
+    "titulo": "LetraMundo",
+    "ano": 2024,
+    "imagem": null,
+    "descricao": "Disponível na Web, destinada a desktops, aborda o reconhecimento de vogais, consoantes, sílabas, palavras e frases, com o objetivo de favorecer a alfabetização e a inclusão educacional de crianças com TEA. Suas atividades envolvem associação entre fonemas e grafemas, formação de palavras e frases por meio de quebra-cabeças e progressão em 100 fases. Desenvolve habilidades de comunicação, expressão, percepção visual, associação fonética, coordenação motora fina e raciocínio lógico.",
+    "plataformas": [
+      "Aplicação Web",
+      "Desktops"
+    ],
+    "linkAcesso": "Não fornecido - Consultar os autores do artigo",
+    "linkArtigo": "https://sol.sbc.org.br/index.php/sbie/article/view/31436/31239",
+    "autores": [
+      "Arthur Silva",
+      "Pedro Santos",
+      "Mônica Cunha"
+    ],
+    "areaConhecimento": [
+      "Linguagem",
+      "Língua Portuguesa"
+    ],
+    "conteudos": [
+      "Vogais",
+      "Consoantes",
+      "Formação de sílabas",
+      "Palavras",
+      "Frases"
+    ],
+    "objetivosAprendizagem": "Contribuir para a educação especial e promover a inclusão social de crianças com TEA no ambiente educacional.",
+    "habilidades": [
+      "Comunicação e expressão",
+      "Percepção visual",
+      "Associação fonética",
+      "Coordenação motora fina",
+      "Raciocínio lógico"
+    ],
+    "alinhamentoBNCC": false,
+    "alinhamentoDetalhe": "Não se aplica",
+    "fundamentacaoPedagogica": [
+      "Sistema Scliar de Alfabetização (SSA)",
+      "Metodologia do GraphoGame"
+    ],
+    "faixasEtarias": [
+      "Crianças"
+    ],
+    "idade": "Não informado",
+    "nivelSuporte": "Não informado",
+    "nivelEducacional": [
+      "Ensino Fundamental"
+    ],
+    "mecanicas": [
+      "Associação de sons (fonemas) aos seus grafemas correspondentes em telas de múltipla escolha",
+      "Dinâmicas de quebra-cabeça para formação de palavras e frases",
+      "Sistema de progressão com 10 níveis, contendo 10 fases cada (100 fases no total)",
+      "Barra de evolução",
+      "Temas visuais personalizáveis pelo jogador"
+    ],
+    "recursosAcessibilidade": [
+      "Uso de temas relacionados aos hiperfocos dos alunos (ex.: dinossauros e futebol) para favorecer a retenção da atenção",
+      "Estímulos visuais e sonoros positivos",
+      "Ausência de feedbacks negativos e sons de erro para evitar frustrações",
+      "Transições suaves entre níveis"
+    ],
+    "evidenciasCientificas": [
+      "Avaliação exploratória de protótipo",
+      "Estudo de caso qualitativo utilizando Design Centrado no Usuário (DCU)"
+    ]
+  },
+  {
+    "id": "J28",
+    "titulo": "AutiBots",
+    "ano": 2022,
+    "imagem": null,
+    "descricao": "O jogo é desenvolvido para dispositivos móveis Android e trabalha conteúdos como cores, formas, direções, memória, expressões faciais e letras. Seu objetivo é estimular a coordenação motora, a lateralidade, a percepção visual, a linguagem e as funções executivas. Apresenta uma mecânica de corrida infinita, na qual o jogador controla um robô para desviar de obstáculos e alcançar objetivos, utilizando botões ou movimentos na tela. Inclui coleta de moedas, personagens personalizáveis e pontuação por estrelas.",
+    "plataformas": [
+      "Dispositivos móveis",
+      "Android"
+    ],
+    "linkAcesso": "Não fornecido - Consultar os autores do artigo",
+    "linkArtigo": "https://sol.sbc.org.br/index.php/sbie/article/view/22443/22267",
+    "autores": [
+      "Leandro Sampaio",
+      "Claudia Pereira"
+    ],
+    "areaConhecimento": [
+      "Matemática",
+      "Linguagem",
+      "Educação Socioemocional"
+    ],
+    "conteudos": [
+      "Cores",
+      "Formas",
+      "Direções",
+      "Memória",
+      "Expressões faciais",
+      "Letras"
+    ],
+    "objetivosAprendizagem": "Estimular a coordenação motora fina, a lateralidade, a percepção visual, a linguagem, o raciocínio lógico e as funções executivas.",
+    "habilidades": [
+      "Coordenação motora fina",
+      "Lateralidade",
+      "Percepção visual",
+      "Linguagem verbal e não verbal",
+      "Raciocínio lógico",
+      "Memória de trabalho",
+      "Resolução de problemas",
+      "Atenção"
+    ],
+    "alinhamentoBNCC": false,
+    "alinhamentoDetalhe": "Não se aplica",
+    "fundamentacaoPedagogica": [
+      "Análise do Comportamento Aplicada (ABA)"
+    ],
+    "faixasEtarias": [
+      "Crianças"
+    ],
+    "idade": "Não informado",
+    "nivelSuporte": "Não informado",
+    "nivelEducacional": [
+      "Educação Infantil",
+      "Anos iniciais do Ensino Fundamental"
+    ],
+    "mecanicas": [
+      "Estilo corrida infinita onde o robô se move automaticamente para frente",
+      "O jogador deve mover o robô para três posições (esquerda, direita ou centro) através de botões ou deslizando o dedo para desviar de obstáculos e atingir o alvo correto (ex: uma letra ou cor)",
+      "Inclui coleta de moedas para compra de novos personagens e sistema de pontuação por estrelas"
+    ],
+    "recursosAcessibilidade": [
+      "Interface intuitiva, com menus simples e pouco texto",
+      "Vídeo tutorial demonstrativo",
+      "Configurações personalizáveis de áudio e dificuldade das fases",
+      "Uso de reforçadores positivos (sons de palmas, áudios de congratulação e efeitos visuais)",
+      "Dicas visuais no início de cada desafio"
+    ],
+    "evidenciasCientificas": [
+      "Avaliação exploratória de usabilidade e experiência do usuário",
+      "Estudo de caso de desenvolvimento de software, seguido da aplicação de questionário baseado no modelo MEEGA+"
+    ]
+  },
+  {
+    "id": "J29",
+    "titulo": "LIA (Letramento Interativo para Autistas)",
+    "ano": 2017,
+    "imagem": null,
+    "descricao": "O jogo, disponível para dispositivos móveis Android, tem como foco o sequenciamento de fatos e a construção de narrativas, visando desenvolver habilidades de comunicação, interpretação, verbalização, imaginação e raciocínio lógico. A dinâmica consiste em selecionar e arrastar imagens para um campo de texto, formando frases que são organizadas progressivamente em uma narrativa.",
+    "plataformas": [
+      "Dispositivos móveis",
+      "Android"
+    ],
+    "linkAcesso": "Não fornecido - Consultar os autores do artigo",
+    "linkArtigo": "https://sol.sbc.org.br/index.php/sbie/article/view/42149/41916",
+    "autores": [
+      "Filomena Moita",
+      "Lucas Viana",
+      "Felipe Medeiros",
+      "Vilma Candido"
+    ],
+    "areaConhecimento": [
+      "Linguagem",
+      "Língua Portuguesa",
+      "Pensamento Computacional"
+    ],
+    "conteudos": [
+      "Sequenciamento de fatos",
+      "Construção de narrativas"
+    ],
+    "objetivosAprendizagem": "Desenvolver habilidades de construção e organização de narrativas em pessoas com autismo.",
+    "habilidades": [
+      "Comunicação",
+      "Interpretação de textos",
+      "Verbalização",
+      "Pensamento lógico",
+      "Imaginação",
+      "Coordenação motora"
+    ],
+    "alinhamentoBNCC": false,
+    "alinhamentoDetalhe": "Não se aplica",
+    "fundamentacaoPedagogica": [
+      "Programa TEACCH"
+    ],
+    "faixasEtarias": [
+      "Crianças"
+    ],
+    "idade": "Não informado",
+    "nivelSuporte": "Não informado",
+    "nivelEducacional": [
+      "Educação Infantil",
+      "Anos iniciais do Ensino Fundamental"
+    ],
+    "mecanicas": [
+      "Fluxo contínuo e não linear onde o usuário deve escolher entre três imagens e realizar a ação de arrastar e soltar (drag and drop) para um campo de texto",
+      "Ao soltar a imagem, uma frase relacionada é exibida e as frases subsequentes são incrementadas para formar uma narrativa completa",
+      "Inclui escolha de títulos aleatórios ao final"
+    ],
+    "recursosAcessibilidade": [
+      "Interface minimalista e funcional, com formas simples",
+      "Uso de cores claras no fundo e texturas suaves para evitar distrações",
+      "Botões e ícones de fácil compreensão",
+      "Previsão de inclusão de áudio com voz humana para auxiliar na pronúncia"
+    ],
+    "evidenciasCientificas": [
+      "Avaliação exploratória de caráter qualitativo",
+      "Estudo de caso de desenvolvimento de software (modelagem UML), seguido de validação com usuários por meio de observação e entrevistas"
+    ]
+  },
+  {
+    "id": "J30",
+    "titulo": "Mundo das Letras",
+    "ano": 2020,
+    "imagem": null,
+    "descricao": "O jogo é disponibilizado para dispositivos móveis e tablets, com foco no princípio alfabético e na correspondência entre grafemas e fonemas. Seu objetivo é apoiar a alfabetização de pessoas autistas por meio de atividades de reconhecimento de letras e associação entre seus sons e os sons iniciais das palavras. Organizado em quatro mundos, contempla as 26 letras do alfabeto e inclui uma atividade bônus com palavras em Tupi-Guarani. Desenvolve consciência fonológica, vocabulário, coordenação motora fina e intenção comunicativa.",
+    "plataformas": [
+      "Dispositivos móveis",
+      "Tablets"
+    ],
+    "linkAcesso": "Não fornecido - Consultar os autores do artigo",
+    "linkArtigo": "https://sol.sbc.org.br/index.php/wie/article/view/12638",
+    "autores": [
+      "Joseane Uema",
+      "Fabiana Oliveira",
+      "Laíza Silva",
+      "Armando Toda",
+      "Seiji Isotani"
+    ],
+    "areaConhecimento": [
+      "Linguagem",
+      "Língua Portuguesa"
+    ],
+    "conteudos": [
+      "Princípio alfabético",
+      "Correspondência entre grafemas e fonemas"
+    ],
+    "objetivosAprendizagem": "Apoiar o processo de ensino-aprendizagem e o desenvolvimento de diferentes habilidades educacionais, especialmente a alfabetização de pessoas autistas.",
+    "habilidades": [
+      "Reconhecimento e leitura de letras",
+      "Consciência fonológica",
+      "Ampliação do vocabulário",
+      "Coordenação motora fina",
+      "Intenção comunicativa"
+    ],
+    "alinhamentoBNCC": false,
+    "alinhamentoDetalhe": "Não se aplica",
+    "fundamentacaoPedagogica": [
+      "Não informado"
+    ],
+    "faixasEtarias": [
+      "Crianças"
+    ],
+    "idade": "4 a 10 anos",
+    "nivelSuporte": "Não informado",
+    "nivelEducacional": [
+      "Educação Infantil",
+      "Anos iniciais do Ensino Fundamental"
+    ],
+    "mecanicas": [
+      "O jogador progride por quatro mundos (planetoides) compostos pelas 26 letras do alfabeto, realizando tarefas de associação entre sons das letras e o som inicial de palavras selecionadas",
+      "Inclui um nível bônus com palavras em Tupi-Guarani focado no conhecimento cultural, sem sistema de pontuação (ganho ou perda)",
+      "O jogo utiliza um sistema de pontuação geral e reforço positivo com congratulações para incentivar a continuidade mesmo após erros"
+    ],
+    "recursosAcessibilidade": [
+      "Uso de personagens divertidos e coloridos",
+      "Audiodescrição por meio da dublagem de palavras e ações",
+      "Interface lúdica e intuitiva",
+      "Eliminação de estímulos aversivos desnecessários"
+    ],
+    "evidenciasCientificas": [
+      "Avaliação exploratória (pesquisa qualitativa com intervenção real)",
+      "Estudo de abordagem qualitativa dividido em três etapas (definição, análise e inferência), utilizando pré-teste e pós-teste para avaliar o progresso"
+    ]
+  }
+]
