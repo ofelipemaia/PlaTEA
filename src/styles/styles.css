@@ -239,8 +239,9 @@ input::placeholder {
 }
 
 .field > label {
-  color: var(--muted);
-  font-size: 12px;
+  color: var(--text);
+  font-size: 16px;
+  font-weight: 600;
 }
 
 .hero {
@@ -251,8 +252,9 @@ input::placeholder {
 }
 
 .hero h1 {
-  font-size: clamp(32px, 3.4vw, 48px);
-  line-height: 1.05;
+  font-size: clamp(26px, 2.6vw, 36px);
+  line-height: 1.2;
+  letter-spacing: -0.025em;
 }
 
 .hero-description {
@@ -273,7 +275,7 @@ input::placeholder {
 
 .search-form {
   display: grid;
-  grid-template-columns: 160px minmax(0, 1fr) auto;
+  grid-template-columns: 240px minmax(0, 1fr) auto;
   align-items: end;
   gap: 16px;
   text-align: left;
@@ -281,6 +283,39 @@ input::placeholder {
 
 .search-form .button {
   min-height: 48px;
+}
+
+.search-form select,
+.search-form input[type="search"] {
+  border-color: var(--border);
+  border-radius: var(--radius);
+  background-color: var(--surface);
+  color: var(--text);
+  font-size: 15px;
+  transition: border-color 160ms ease, box-shadow 160ms ease;
+}
+
+.search-form select:hover,
+.search-form input[type="search"]:hover {
+  border-color: #cbd5e1;
+}
+
+.search-form select:focus-visible,
+.search-form input[type="search"]:focus-visible {
+  border-color: var(--link);
+  outline: 3px solid #bfdbfe;
+  outline-offset: 0;
+}
+
+/* Seta própria no select, no lugar da seta nativa do navegador */
+.search-form select {
+  padding-right: 44px;
+  font-weight: 500;
+  appearance: none;
+  background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='16' height='16' viewBox='0 0 24 24' fill='none' stroke='%23475569' stroke-width='2' stroke-linecap='round' stroke-linejoin='round'%3E%3Cpath d='m6 9 6 6 6-6'/%3E%3C/svg%3E");
+  background-repeat: no-repeat;
+  background-position: right 14px center;
+  background-size: 16px;
 }
 
 .section {

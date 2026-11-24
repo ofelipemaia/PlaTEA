@@ -1,31 +1,36 @@
+import { useState } from 'react'
 import { useNavigate } from 'react-router'
+import ConteudosApoio from '../components/ConteudosApoio'
 
-const conteudosApoio = [
+// O exemplo mostrado no campo muda conforme a categoria escolhida.
+const CATEGORIAS = [
   {
-    id: 1,
-    ano: 2023,
-    titulo: 'Narrativa e Identidade em “The Last of Us”',
-    descricao:
-      'Uma análise da construção de personagens e do impacto emocional na série The Last of Us, explorando temas de perda e resiliência.',
+    valor: 'assunto',
+    rotulo: 'Assunto',
+    exemplo: 'Ex.: Alfabetização, Emoções, Higiene',
   },
   {
-    id: 2,
-    ano: 2022,
-    titulo: 'Mechanics as Metaphor: O Design de “Papers, Please”',
-    descricao:
-      'Investigação sobre como os mecanismos de jogo em Papers, Please servem como metáfora para a burocracia e o controle social.',
+    valor: 'area',
+    rotulo: 'Área do conhecimento',
+    exemplo: 'Ex.: Matemática, Língua Portuguesa',
   },
   {
-    id: 3,
-    ano: 2024,
-    titulo: 'A Evolução do Gênero Roguelike: De “Rogue” a “Hades”',
-    descricao:
-      'Um estudo histórico sobre a evolução dos jogos roguelike, desde os primórdios em ASCII até as produções contemporâneas.',
+    valor: 'habilidade',
+    rotulo: 'Habilidade',
+    exemplo: 'Ex.: Atenção, Raciocínio lógico',
+  },
+  {
+    valor: 'idade',
+    rotulo: 'Faixa etária',
+    exemplo: 'Ex.: Crianças, Jovens etc.',
   },
 ]
 
 export default function Home() {
   const navigate = useNavigate()
+  const [categoria, setCategoria] = useState(CATEGORIAS[0].valor)
+
+  const { exemplo } = CATEGORIAS.find((c) => c.valor === categoria)
 
   function handleSubmit(e) {
     e.preventDefault()
@@ -54,22 +59,28 @@ export default function Home() {
 
         <div className="search-help">
           <p>
-            <strong>
-              Escolha uma categoria. Depois, digite uma palavra-chave
-              relacionada a ela. Por fim, clique em “Pesquisar”.
-            </strong>
+            
+              Selecione uma opção no campo <strong>Categoria</strong>. 
+              Em seguida, digite uma palavra-chave relacionada no campo<strong> Termo</strong> e clique em <strong>Pesquisar</strong>.
+  
           </p>
-          <small>Exemplo: Área do conhecimento — Matemática.</small>
+          <small>Exemplo: Área do conhecimento - Matemática.</small>
         </div>
 
         <form className="search-form" onSubmit={handleSubmit} role="search">
           <div className="field">
             <label htmlFor="categoria">Categoria</label>
-            <select id="categoria" name="categoria">
-              <option value="assunto">Assunto</option>
-              <option value="area">Área do conhecimento</option>
-              <option value="habilidade">Habilidade</option>
-              <option value="idade">Faixa etária</option>
+            <select
+              id="categoria"
+              name="categoria"
+              value={categoria}
+              onChange={(e) => setCategoria(e.target.value)}
+            >
+              {CATEGORIAS.map(({ valor, rotulo }) => (
+                <option key={valor} value={valor}>
+                  {rotulo}
+                </option>
+              ))}
             </select>
           </div>
 
@@ -79,7 +90,8 @@ export default function Home() {
               id="termo"
               name="q"
               type="search"
-              placeholder="Digite o termo da pesquisa..."
+              placeholder={exemplo}
+              autoComplete="off"
             />
           </div>
 
@@ -87,40 +99,7 @@ export default function Home() {
         </form>
       </section>
 
-      <section id="apoio" className="section" aria-labelledby="titulo-apoio">
-        <div className="section-heading">
-          <h2 id="titulo-apoio">Conteúdos de apoio em destaque</h2>
-          <button
-            className="text-button"
-            type="button"
-            disabled
-            title="Destino não fornecido no design"
-          >
-            Ver todos
-          </button>
-        </div>
-
-        <div className="card-grid">
-          {conteudosApoio.map((item) => (
-            <article key={item.id} className="card support-card">
-              <div className="card-meta">
-                <span className="badge">Artigo</span>
-                <time dateTime={String(item.ano)}>{item.ano}</time>
-              </div>
-              <h3>{item.titulo}</h3>
-              <p>{item.descricao}</p>
-              <button
-                className="text-button"
-                type="button"
-                disabled
-                title="URL do artigo não fornecida"
-              >
-                Abrir
-              </button>
-            </article>
-          ))}
-        </div>
-      </section>
+      <ConteudosApoio />
     </>
   )
 }
