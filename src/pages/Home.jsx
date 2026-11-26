@@ -1,6 +1,8 @@
 import { useState } from 'react'
 import { useNavigate } from 'react-router'
 import ConteudosApoio from '../components/ConteudosApoio'
+import Logo from '../components/Logo'
+
 
 // O exemplo mostrado no campo muda conforme a categoria escolhida.
 const CATEGORIAS = [
@@ -46,26 +48,14 @@ export default function Home() {
       <section className="hero" aria-labelledby="titulo">
         <h1 id="titulo">
           Plataforma de Jogos Educacionais
-          <br />
-          para Estudantes Autistas
         </h1>
 
         <p className="hero-description">
-          Encontre jogos educacionais adequados a estudantes com TEA
-          considerando as diferentes necessidades e especificidades de cada
-          estudante. Consulte informações sobre cada jogo, e escolha o que
-          melhor atende às necessidades do estudante.
+          Encontre e selecione jogos educacionais para estudantes com TEA, considerando suas necessidades e especificidades. 
+          Consulte as informações de cada jogo para identificar o mais adequado.
         </p>
 
-        <div className="search-help">
-          <p>
-            
-              Selecione uma opção no campo <strong>Categoria</strong>. 
-              Em seguida, digite uma palavra-chave relacionada no campo<strong> Termo</strong> e clique em <strong>Pesquisar</strong>.
-  
-          </p>
-          <small>Exemplo: Área do conhecimento - Matemática.</small>
-        </div>
+      
 
         <form className="search-form" onSubmit={handleSubmit} role="search">
           <div className="field">
@@ -97,7 +87,19 @@ export default function Home() {
 
           <button className="button" type="submit">Pesquisar</button>
         </form>
+
+        <div className="search-help">
+          <p>
+            
+              Selecione uma <strong>Categoria</strong>. 
+              Em seguida, digite uma palavra-chave relacionada no campo<strong> Termo</strong> e clique em <strong>Pesquisar</strong>.
+  
+          </p>
+          <small>Exemplo: Área do conhecimento - Matemática.</small>
+        </div>
       </section>
+
+        
 
       <ConteudosApoio />
     </>

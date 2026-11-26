@@ -4,6 +4,7 @@ import jogos from '../data/jogos_educativos.json'
 import ConteudosApoio from '../components/ConteudosApoio'
 import { IconeLinkExterno, IconeSeta } from '../components/Icones'
 import { ehValorPadrao } from '../utils/filtros'
+import { urlPublica } from '../utils/urlPublica'
 
 const SECOES = [
   { id: 'caracteristicas', titulo: 'Características educacionais' },
@@ -152,7 +153,7 @@ function DetalhesJogo({ jogo }) {
           {jogo.imagem ? (
             <img
               className="cover-image"
-              src={jogo.imagem}
+              src={urlPublica(jogo.imagem)}
               alt={`Capa do jogo ${jogo.titulo}`}
             />
           ) : (
@@ -350,7 +351,7 @@ function DetalhesJogo({ jogo }) {
             <Secao id="galeria" titulo="Imagens do Jogo">
               <div className="game-gallery">
                 {galeria.map((imagem) => (
-                  <img key={imagem.src} src={imagem.src} alt={imagem.alt} />
+                  <img key={imagem.src} src={urlPublica(imagem.src)} alt={imagem.alt} />
                 ))}
               </div>
             </Secao>

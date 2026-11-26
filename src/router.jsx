@@ -4,14 +4,19 @@ import Home from './pages/Home'
 import Resultados from './pages/Resultados'
 import Jogo from './pages/Jogo'
 
-export const router = createBrowserRouter([
-  {
-    path: '/',
-    element: <Layout />,
-    children: [
-      { index: true, element: <Home /> },
-      { path: 'resultados', element: <Resultados /> },
-      { path: 'jogo/:id', element: <Jogo /> },
-    ],
-  },
-])
+export const router = createBrowserRouter(
+  [
+    {
+      path: '/',
+      element: <Layout />,
+      children: [
+        { index: true, element: <Home /> },
+        { path: 'resultados', element: <Resultados /> },
+        { path: 'jogo/:id', element: <Jogo /> },
+      ],
+    },
+  ],
+   {
+    basename: import.meta.env.BASE_URL,
+  }
+)
